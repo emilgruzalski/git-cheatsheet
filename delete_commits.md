@@ -65,8 +65,3 @@ Poniższa instrukcja opisuje krok po kroku, jak usunąć commity, które został
 Resetowanie git z opcją `--hard` oraz wymuszanie push (`--force`) mogą być działaniami destrukcyjnymi i powinny być wykonywane z ostrożnością. Przed podjęciem takiego działania, zwłaszcza w przypadku zdalnych repozytoriów współdzielonych z innymi, upewnij się, że wszyscy współpracownicy są świadomi tych zmian i że masz backup niezbędnych danych.
 
 W przypadku jakichkolwiek wątpliwości skonsultuj się z zespołem przed wykonaniem resetu.
-
-## Przydatne Źródła
-
-- [Oficjalna dokumentacja Git](https://git-scm.com/doc)
-- [Pro Git Book](https://git-scm.com/book/en/v2) - darmowa książka dostępna online
